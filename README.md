@@ -3,7 +3,7 @@ Projeto Libic (Library Itaenga Conecta) is a work whose purpose is to compile fr
 
 ## Info
 
-https://www.facebook.com
+https://www.facebook.com/ItaengaConecta
 
 https://itaengaconecta.blogspot.com
 
