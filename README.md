@@ -13,7 +13,7 @@ You can send your contribution for the Google Form in https://forms.gle/n4Km899D
 
 ### Donation For Itaenga Conecta
 
-Information on how to help maintain the Itaenga Conecta project in https://itaengaconecta.blogspot.com
+Information on how to help maintain the Itaenga Conecta project in https://itaengaconecta.blogspot.com. (Comming in soon).
 
 ### About
 
