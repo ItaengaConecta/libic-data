@@ -1,14 +1,14 @@
 [
 	{
-		'name': 'sciences',
-		'url': 'https://raw.githubusercontent.com/ItaengaConecta/libic-data/main/json/libic-textos-exatas.json',
-		'description':'List content for sciences (mathematics, physics, biology, quemistry, etc).'
+		"name": "sciences",
+		"url": "https://raw.githubusercontent.com/ItaengaConecta/libic-data/main/json/libic-textos-exatas.json",
+		"description':'List content for sciences (mathematics, physics, biology, quemistry, etc)."
 	},
 
 	{
-		'name':'engineering',
-		'url': ''
-	},
+		"name":"engineering",
+		"url": ""
+	}
 
 
 ]
