@@ -15,7 +15,9 @@ var urljson = "https://raw.githubusercontent.com/ItaengaConecta/libic-data/main/
 xmlhttp.onreadystatechange = function() {
 	  if (this.readyState == 4 && this.status == 200) {
 		      var myArr = JSON.parse(this.responseText);
-		      document.getElementById("libic").innerHTML = myArr[0].Title;
+			  
+			  document.getElementById("libic").innerHTML = "<br>"+myArr[0].Title+"<br><a href='"+myArr[0].MainLink+"'>"+myArr[0].MainLink;
+
 		    }
 };
 xmlhttp.open("GET", urljson, true);
