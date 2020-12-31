@@ -14,7 +14,7 @@
     "Summary": "-",
     "Description": "Notas de aula do professor Guidi do Instituto de Matemática da UFRGS para disciplina de cálculo numérico.",
     "MainLink": "http://www.mat.ufrgs.br/~guidi/grad/MAT01169/calculo_numerico.pdf",
-    "SecundaryLink": ""
+    "SecundaryLink": "https://drive.google.com/file/d/1My2o5USIGBdDOVWuHoh97zoWeJvHnH_l/view?usp=sharing"
   },
   {
     "ID": "-",
@@ -31,7 +31,7 @@
     "Summary": "-",
     "Description": "Livro  de cálculo vetorial e geometria Analítica.",
     "MainLink": "http://im.ufrj.br/~noseda/2017-1/Livro1.pdf",
-    "SecundaryLink": ""
+    "SecundaryLink": "https://drive.google.com/file/d/1vF4ah7P1fgp3SxmMiUxiw2_l1qZ6qRnR/view?usp=sharing"
   },
   {
     "ID": "-",
@@ -48,7 +48,7 @@
     "Summary": "-",
     "Description": "Ebook de Geometria Analítica",
     "MainLink": "https://memoria.ifrn.edu.br/bitstream/handle/1044/1010/Geometria%20Anali%cc%81tica%20-%20Ebook.pdf?sequence=1&isAllowed=y",
-    "SecundaryLink": ""
+    "SecundaryLink": "https://drive.google.com/file/d/1ZNAXZW78VXYwp6osUKRkolKqYZ5ELYY4/view?usp=sharing"
   },
   {
     "ID": "-",
@@ -65,7 +65,7 @@
     "Summary": "-",
     "Description": "Ebook de Geometria Analítica",
     "MainLink": "http://hostel.ufabc.edu.br/~daniel.miranda/livros/geometria-analitica/geometriaanaliticaevetorial-SGD.pdf",
-    "SecundaryLink": ""
+    "SecundaryLink": "https://drive.google.com/file/d/1Hw2R2ktr9YQNNFcvjRZhiO0UVdjaBokr/view?usp=sharing"
   },
   {
     "ID": "-",
@@ -82,7 +82,7 @@
     "Summary": "-",
     "Description": "Ebook de GeometriaAnalítica. Curso de Licenciatura em Matemática UFMA",
     "MainLink": "http://www.mat.ufrgs.br/~portosil/geometria-analitica-ufma.pdf",
-    "SecundaryLink": ""
+    "SecundaryLink": "https://drive.google.com/file/d/1pQG0gRBFV2Qt9-MmZOgpggmoQBxGlFi_/view?usp=sharing"
   },
   {
     "ID": "-",
@@ -99,7 +99,7 @@
     "Summary": "-",
     "Description": "Apostila de notas de aula de Geometria Analítica.",
     "MainLink": "http://www.ime.unicamp.br/~dledesma/disciplinasministradas/MA141-C-2020/listas/Apostila.pdf",
-    "SecundaryLink": ""
+    "SecundaryLink": "https://drive.google.com/file/d/1aT-nh8VoEt3cBZaA3YTcKAYV-oH6eP_B/view?usp=sharing"
   },
   {
     "ID": "-",
@@ -116,7 +116,7 @@
     "Summary": "-",
     "Description": "Lectures notes on curves and surfaces Winter quarter 2005.",
     "MainLink": "https://www.math.uci.edu/~cterng/162A_Lecture_Notes.pdf",
-    "SecundaryLink": ""
+    "SecundaryLink": "https://drive.google.com/file/d/1DP9ZRZgmxeVo_FaYCRwnKhU0VVC_V9UW/view?usp=sharing"
   },
   {
     "ID": "-",
@@ -133,7 +133,7 @@
     "Summary": "-",
     "Description": "Elementary differential geometry curves and surfaces",
     "MainLink": "https://people.math.aau.dk/~raussen/INSB/AD2-11/book.pdf",
-    "SecundaryLink": ""
+    "SecundaryLink": "https://drive.google.com/file/d/1b3QlEBS5U8xuR2zeKfuYtnjwjOg1uFE2/view?usp=sharing"
   },
   {
     "ID": "-",
@@ -150,7 +150,7 @@
     "Summary": "-",
     "Description": "Differential geometry course in curves and surfaces.",
     "MainLink": "http://alpha.math.uga.edu/~shifrin/ShifrinDiffGeo.pdf",
-    "SecundaryLink": ""
+    "SecundaryLink": "https://drive.google.com/file/d/1k9q9E3kiuyovX0OHqWVHYbDBHeGydqax/view?usp=sharing"
   },
   {
     "ID": "-",
@@ -167,7 +167,7 @@
     "Summary": "-",
     "Description": "Differential geometry on curves and surfaces",
     "MainLink": "https://fsw01.bcc.cuny.edu/luis.fernandez01/web/texts/dgcs.pdf",
-    "SecundaryLink": ""
+    "SecundaryLink": "https://drive.google.com/file/d/1RuBWfxDYORtleeo3hb-B5WMzKCaN3PKK/view?usp=sharing"
   },
   {
     "ID": "-",
@@ -184,6 +184,91 @@
     "Summary": "-",
     "Description": "Lecture notes in geometry aboutt curves and surfaces.",
     "MainLink": "http://web.math.ku.dk/noter/filer/geom1.pdf",
+    "SecundaryLink": "https://drive.google.com/file/d/1tyn9H4SsKxzPHWI1p09HMPfL1moKmxkP/view?usp=sharing"
+  },
+  {
+    "ID": "",
+    "Title": "Proofs And Mathematical Reasoning",
+    "Author": "Agata Stefanowics",
+    "Year": 2014,
+    "Type": "Booklet",
+    "Category": "Ciências Exatas e da Natureza",
+    "SubCategory": "Mathematics",
+    "Subject": "Proofs Logic",
+    "Language": "English",
+    "ISBN": "-",
+    "Publisher": "University of Birmingham",
+    "Summary": "-",
+    "Description": "Proofs and mathematical reasoning",
+    "MainLink": "https://www.birmingham.ac.uk/Documents/college-eps/college/stem/Student-Summer-Education-Internships/Proof-and-Reasoning.pdf",
+    "SecundaryLink": "https://drive.google.com/file/d/10vewMSJUCeL03fYcLyu_M7vdMVwDtBJP/view?usp=sharing"
+  },
+  {
+    "ID": "",
+    "Title": "Ágebra Linear",
+    "Author": "Gregório Malajovich",
+    "Year": 2010,
+    "Type": "Ebook",
+    "Category": "Ciências Exatas e da Natureza",
+    "SubCategory": "Mathematics",
+    "Subject": "Álgebra Linear",
+    "Language": "Português",
+    "ISBN": "-",
+    "Publisher": "Departamento de Matemática Aplicada UFRJ",
+    "Summary": "-",
+    "Description": "Álgebra Linear",
+    "MainLink": "https://www.labma.ufrj.br/~gregorio/livros/alglin.pdf",
+    "SecundaryLink": "https://drive.google.com/file/d/1_1g2W22TjLQY9r3Cy5DEflV5W_y3zn8_/view?usp=sharing"
+  },
+  {
+    "ID": "",
+    "Title": "Ágebra Linear",
+    "Author": "Jerônimo C. Pellegrini",
+    "Year": 2015,
+    "Type": "Ebook",
+    "Category": "Ciências Exatas e da Natureza",
+    "SubCategory": "Mathematics",
+    "Subject": "Àlgebra Linear",
+    "Language": "Português",
+    "ISBN": "-",
+    "Publisher": "-",
+    "Summary": "-",
+    "Description": "Álgebra Linear",
+    "MainLink": "https://www.ime.unicamp.br/~deleo/MA327/ld4.pdf",
+    "SecundaryLink": "https://drive.google.com/file/d/1l0_joGz2F36M7qyaA9WKYXaNrfeOFXNN/view?usp=sharing"
+  },
+  {
+    "ID": "-",
+    "Title": "IUP – Introdução ao Universo da Programação com Python",
+    "Author": "Wendel Melo",
+    "Year": 2020,
+    "Type": "Ebook",
+    "Category": "Computação",
+    "SubCategory": "Programação",
+    "Subject": "Programação",
+    "Language": "Português",
+    "ISBN": "-",
+    "Publisher": "-",
+    "Summary": "-",
+    "Description": "Apostila de programação com a Linguagem Python",
+    "MainLink": "https://drive.google.com/file/d/10x6c4GjEgDHv-kSs63v_rATwjOHjkxbm/view?usp=sharing",
+    "SecundaryLink": ""
+  },
+  {
+    "ID": "-",
+    "Title": "Apostila Estruturas de Dados",
+    "Author": "Waldemar Celes e José Lucas rangel",
+    "Year": 2002,
+    "Type": "Apostila/Ebook",
+    "Category": "Computação",
+    "SubCategory": "Programação",
+    "Subject": "Programação",
+    "Language": "Português",
+    "ISBN": "-",
+    "Publisher": "PUC-RIO",
+    "Summary": "-",
+    "Description": "Programação em C e estruturas de dados em C",
+    "MainLink": "https://drive.google.com/file/d/19pu4FFH0YDcBmxLex1Hbl0QofSBu9N9n/view?usp=sharing",
     "SecundaryLink": ""
   }
 ]
