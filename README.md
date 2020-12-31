@@ -20,7 +20,7 @@ Information on how to help maintain the Itaenga Conecta project in https://itaen
 
 ### About
 
-"Itaenga Conecta" is a free personal project based in the city of Lagoa de Itaenga in Brazil that aims to bring knowledge and means for development to the Zona da Mata Norte region in the interior of Pernambuco. It emerged from the creation of "Revista Digital Itaenga Conecta" on Facebook with the aim of sharing tips and suggestions for reading and study materials, as well as publicizing social, cultural, artistic and projects in the region.
+"Itaenga Conecta" is a free personal project that aims to bring knowledge emerged from the creation of "Revista Digital Itaenga Conecta" on Facebook with the aim of sharing tips and suggestions for reading and study materials, as well as publicizing social, cultural, artistic and projects.
 
 
 Thank you for your help.
