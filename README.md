@@ -24,6 +24,11 @@ Information on how to help maintain the Itaenga Conecta project in https://itaen
 
 "Itaenga Conecta" is a free personal project that aims to bring knowledge emerged from the creation of "Revista Digital Itaenga Conecta" on Facebook with the aim of sharing tips and suggestions for reading and study materials, as well as publicizing social, cultural, artistic and projects.
 
+### Links
 
+Some materials/ebooks.
+
+1. [Gatech Mathematics Ebooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
+2. [Dominio Público](http://www.dominiopublico.gov.br/)
 Thank you for your help.
 Regards.
