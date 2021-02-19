@@ -16,9 +16,10 @@ You can send your contribution for the Google Form in https://forms.gle/n4Km899D
 You also can open ISSUE with your suggestion
 
 
-### Donation For Itaenga Conecta
+### Donation For Project
 
-Information on how to help maintain the Itaenga Conecta project in https://itaengaconecta.blogspot.com. (Comming in soon).
+Information on how to help maintain works projects. 
+[Page Catarse ](https://www.catarse.me/makvincis)
 
 ### About
 
