@@ -33,6 +33,7 @@ Some materials/ebooks.
 3. [Libic Biblioteca Virtual Google Drive](https://drive.google.com/drive/folders/11HN5KKEHTcUZVfn38KmLsg8iiZTOGH92?usp=sharing)
 4. [Canal Makvincis - Artes, Matemática e Tecnologia](https://www.youtube.com/channel/UCoOdEvMxIKc4z2P0zkqjBFA)
 5. [Blog WSRicardo](https://wsricardo.blogspot.com)
+6. [Repo de Matemática - Anotações e Listas de Exercícios Resolvidos](https://github.com/wsricardo/matematica)
 
 Thank you for your help.
 Regards.
