@@ -3,11 +3,10 @@ Projeto Libic (Library Itaenga Conecta) is a work whose purpose is to compile fr
 
 ## Info
 
-https://itaengaconecta.blogspot.com/
 
 https://wsricardo.blogspot.com
 
-https://www.instagram.com/wsricardo.arts
+
 
 ### Send Your Contribution
 
@@ -23,7 +22,7 @@ Information on how to help maintain works projects.
 
 ### About
 
-"Itaenga Conecta" is a free personal project that aims to bring knowledge emerged from the creation of "Revista Digital Itaenga Conecta" on Facebook with the aim of sharing tips and suggestions for reading and study materials, as well as publicizing social, cultural, artistic and projects.
+This work its a free personal project that aims to bring knowledge  with the aim of sharing tips and suggestions for reading and study materials.
 
 ### Links
 
@@ -35,6 +34,7 @@ Some materials/ebooks.
 4. [Canal Makvincis - Artes, Matemática e Tecnologia](https://www.youtube.com/channel/UCoOdEvMxIKc4z2P0zkqjBFA)
 5. [Blog WSRicardo](https://wsricardo.blogspot.com)
 6. [Repo de Matemática - Anotações e Listas de Exercícios Resolvidos](https://github.com/wsricardo/matematica)
+
 
 Thank you for your help.
 Regards.
