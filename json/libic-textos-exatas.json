@@ -270,5 +270,39 @@
     "Description": "Programação em C e estruturas de dados em C",
     "MainLink": "https://drive.google.com/file/d/19pu4FFH0YDcBmxLex1Hbl0QofSBu9N9n/view?usp=sharing",
     "SecundaryLink": ""
+  },
+  {
+    "ID": "",
+    "Title": "Fundamentos de Matemática I",
+    "Author": "Neri & Carmem",
+    "Year": "",
+    "Type": "Ebook",
+    "Category": "Matemática",
+    "SubCategory": "",
+    "Subject": "",
+    "Language": "Português",
+    "ISBN": "",
+    "Publisher": "",
+    "Summary": "",
+    "Description": "Fundamentos de Matemática I",
+    "MainLink": "https://mtm.grad.ufsc.br/files/2014/04/Fundamentos-de-Matem%C3%A1tica-I.pdf",
+    "SecundaryLink": ""
+  },
+  {
+    "ID": "",
+    "Title": "Fundamentos da Matemática II",
+    "Author": "Inder & Algrojando",
+    "Year": "",
+    "Type": "Ebook",
+    "Category": "Matemática",
+    "SubCategory": "",
+    "Subject": "",
+    "Language": "Português",
+    "ISBN": "",
+    "Publisher": "",
+    "Summary": "",
+    "Description": "Fundamento da matemática II",
+    "MainLink": "https://mtmgrad.paginas.ufsc.br/files/2014/04/Fundamentos-de-Matem%C3%A1tica-II.pdf",
+    "SecundaryLink": ""
   }
 ]
