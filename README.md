@@ -30,7 +30,7 @@ Some materials/ebooks.
 4. [Canal Makvincis - Artes, Matemática e Tecnologia](https://www.youtube.com/channel/UCoOdEvMxIKc4z2P0zkqjBFA)
 5. [Blog WSRicardo](https://wsricardo.blogspot.com)
 6. [Repo de Matemática - Anotações e Listas de Exercícios Resolvidos](https://github.com/wsricardo/matematica)
-
+7. [Livros DigitaisMatemática UFSC](https://mtm.grad.ufsc.br/livrosdigitais/)
 
 Thank you for your help.
 Regards.
